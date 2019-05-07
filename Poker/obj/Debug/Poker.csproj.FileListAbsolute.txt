@@ -8,3 +8,6 @@ C:\Users\Anushka Panagar\source\repos\Poker\Poker\obj\Debug\Poker.pdb
 C:\Users\apanagar\source\repos\Poker\Poker\bin\Debug\Poker.exe.config
 C:\Users\apanagar\source\repos\Poker\Poker\obj\Debug\Poker.exe
 C:\Users\apanagar\source\repos\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\apanagar\source\repos\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\apanagar\source\repos\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\apanagar\source\repos\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache

@@ -12,12 +12,14 @@ namespace Poker.Entity
         public string DisplayName { get; set; }
         public int Value { get; set; }
         public Char Suit { get; set; }
+        // Constructor for the card which displays the name and gets the card value / weight for that particular card
         public Card(string DisplayName)
         {
             this.DisplayName = DisplayName;
             this.getCardValue();
         }
 
+        // Gets the card value / weight for the card 
         private void getCardValue()
         {
             Char tempSuitChar;
@@ -27,14 +29,15 @@ namespace Poker.Entity
             this.Value = this.GetCardValueWeight(ValueChar);
         }
 
+        // Method Override of ToString() for displaying the name
         public override string ToString()
         {
             return this.DisplayName;
-        }
-
-        
+        }       
                
-
+        // Switch case for Getting the Card Weight based on the Card Value parsed and Entered by the user
+        // Solution can be optimized by Polymorphism and declaring the Card Weights in Dictionary if there are other switch cases added following the project, but for Poker this does 
+        // does not exceed after Ace 
         private int GetCardValueWeight(string cardValue)
         {
             switch (cardValue.ToUpper())
