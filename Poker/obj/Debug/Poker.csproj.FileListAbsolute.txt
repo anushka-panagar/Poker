@@ -1,0 +1,10 @@
+C:\Users\Anushka Panagar\source\repos\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Anushka Panagar\source\repos\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Anushka Panagar\source\repos\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Anushka Panagar\source\repos\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Anushka Panagar\source\repos\Poker\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+C:\Users\Anushka Panagar\source\repos\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Anushka Panagar\source\repos\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\apanagar\source\repos\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\apanagar\source\repos\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\apanagar\source\repos\Poker\Poker\obj\Debug\Poker.pdb
