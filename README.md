@@ -11,21 +11,21 @@ Assumptions for the Poker Game
 
 Algorithmic Steps for Poker :
 
-// Stage 1
+// Stage 1 <br/>
 1. Get User name as String from consone // Exmaple; Joe
 2. Get Hand details as String // 8S, 8H, 8C, 6S, 7H
 3. Parse hand details to get Hand object which contains List of Cards
 4. Display Hand Object 
 
 
-// Stage 2
+// Stage 2 <br/>
 5. Use GameRules Class to determine type of // Flush
 6. Create method that evaluate tie break rule based on Hand type
 7. Create helper method to comapare 2 types of cards. 
-// takes hand1, hand2 as arg and return 1 if hand1 is strong, returns -1 if hand2 is strong or 0 if both hands are equal 
-// If hands are equal use TieBreakerMethod to tie break
+8. takes hand1, hand2 as arg and return 1 if hand1 is strong, returns -1 if hand2 is strong or 0 if both hands are equal 
+9. If hands are equal use TieBreakerMethod to break the tie
 
 
-// Stage3 Find Winner
-8. Loop Thorugh all uses
-9. Find the highest hand and Print it
+// Stage3 Find Winner<br/>
+10. Loop Thorugh all uses
+11. Find the highest hand and Print it
