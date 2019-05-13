@@ -19,13 +19,13 @@ Algorithmic Steps for Poker :
 
 
 // Stage 2 <br/>
-5. Use GameRules Class to determine type of // Flush
-6. Create method that evaluate tie break rule based on Hand type
-7. Create helper method to comapare 2 types of cards. 
-8. takes hand1, hand2 as arg and return 1 if hand1 is strong, returns -1 if hand2 is strong or 0 if both hands are equal 
-9. If hands are equal use TieBreakerMethod to break the tie
+5. Use GameRules Class to determine type of // Flush <br/>
+6. Create method that evaluate tie break rule based on Hand type <br/>
+7. Create helper method to comapare 2 types of cards.  <br/>
+8. takes hand1, hand2 as arg and return 1 if hand1 is strong, returns -1 if hand2 is strong or 0 if both hands are equal  <br/>
+9. If hands are equal use TieBreakerMethod to break the tie <br/>
 
 
 // Stage3 Find Winner<br/>
-10. Loop Thorugh all uses
+10. Loop Thorugh all uses <br/>
 11. Find the highest hand and Print it
